@@ -1,6 +1,6 @@
 # juno-ts
 
-This modules contains the typescript/assemblyscript binding for Juno protobuf
+This modules contains the typescript/assemblyscript bindings for Juno messages
 
 ## Development
 
